@@ -1,0 +1,22 @@
+[
+    {
+        "p_rel":"DewanshVk/Sportalytics/refs/heads/main/Data/Athletes.csv",
+        "p_file_name":"Athletes.csv"
+    },
+    {
+        "p_rel":"DewanshVk/Sportalytics/refs/heads/main/Data/Coaches.csv",
+        "p_file_name":"Coaches.csv"
+    },
+    {
+        "p_rel":"DewanshVk/Sportalytics/refs/heads/main/Data/EntriesGender.csv",
+        "p_file_name":"EntriesGender.csv"
+    },
+    {
+        "p_rel":"DewanshVk/Sportalytics/refs/heads/main/Data/Medals.csv",
+        "p_file_name":"Medals.csv"
+    },
+    {
+        "p_rel":"DewanshVk/Sportalytics/refs/heads/main/Data/Teams.csv",
+        "p_file_name":"Teams.csv"
+    }
+]
