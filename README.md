@@ -45,7 +45,7 @@ This project follows the **Medallion Architecture**:
 
 The relationships among core tables:
 
-![Data Model Diagram](screenshots/data_model.png)
+![Data Model Diagram](screeenshots/data_model.png)
 
 ---
 
@@ -57,7 +57,7 @@ The relationships among core tables:
 - **Gender Participation Ratio (Pie Chart)**
 - **Medal Summary (Matrix View)**
 
-![Power BI Dashboard](screenshots/dashboard.png)
+![Power BI Dashboard](screeenshots/dashboard.png)
 
 ---
 
@@ -81,22 +81,19 @@ A visual walkthrough of the Sportalytics data pipeline and dashboard insights.
 ### 🧪. Databricks Notebook – Data Cleaning & Transformation
 
 Snapshot of your PySpark logic in action.
-
-📍 `notebooks/databricks_databricks.png`  
-![Databricks Notebook](notebooks/Transformation_Notebook.ipynb)
+  
+[Databricks Notebook](notebooks/Transformation_Notebook.ipynb)
 
 
 ### 🔄. Azure Data Factory Pipeline
 
 Visual of your ingestion pipeline copying raw data to the Bronze layer.
  
-![ADF Pipeline](diagrams/adf.png)
+![ADF Pipeline](screenshot/adf.png)
 
 
 ### 🧠. Synapse Analytics SQL Query
 
-SQL query to generate medal summaries or participation statistics from the Gold layer.
-
-📍 `sql/synapse_query_view.png`  
-[Synapse SQL](SQLQuery.sql)
+SQL query to generate medal summaries or participation statistics from the Gold layer. 
+![Synapse SQL](SQLQuery.sql)
 ---
