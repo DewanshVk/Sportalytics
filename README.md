@@ -57,7 +57,7 @@ The relationships among core tables:
 - **Gender Participation Ratio (Pie Chart)**
 - **Medal Summary (Matrix View)**
 
-![Power BI Dashboard](screeenshots/dashboard.png)
+![Power BI Dashboard](screeenshots/Dashboard.png)
 
 ---
 
@@ -89,7 +89,7 @@ Snapshot of your PySpark logic in action.
 
 Visual of your ingestion pipeline copying raw data to the Bronze layer.
  
-![ADF Pipeline](screenshot/adf.png)
+![ADF Pipeline](screeenshots/adf.png)
 
 
 ### 🧠. Synapse Analytics SQL Query
