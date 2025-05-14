@@ -9,7 +9,7 @@ A modern data engineering project leveraging **Azure's cloud ecosystem** and the
 This project follows the **Medallion Architecture**:
 
 ![Architecture](Architecture.png)
-```
+---
 
 ### Layer Definitions:
 - 🥉 **Bronze Layer**: Raw data ingestion (CSV files from GitHub)
