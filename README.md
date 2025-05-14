@@ -82,7 +82,7 @@ A visual walkthrough of the Sportalytics data pipeline and dashboard insights.
 
 Snapshot of your PySpark logic in action.
   
-[Databricks Notebook](notebooks/Transformation_Notebook.ipynb)
+![Databricks Notebook](notebooks/Transformation_Notebook.ipynb)
 
 
 ### 🔄. Azure Data Factory Pipeline
